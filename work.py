@@ -5,9 +5,9 @@ print(a*5)
 #Возьмем строку "I love Python". Напишите код, 
 # который выведет эту строку без пробелов
 
-a = ("I Love Python")
-a.replace(" ", " ")
-print(a.replace(" ", " "))
+a = ('I Love Python')
+a.replace(' ', ' ')
+print(a.replace(' ', ' '))
 
 #Как лучше всего хранить имена и должности наших работников?
 #словарь
