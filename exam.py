@@ -36,7 +36,7 @@ string lower()
 upper()
 #Как можно обратить (reverse) порядок элементов в списке?
 family = ['mom', 'dad', 'son'] 
-print(skills)
+print(family)
 family.reverse()
 print(family)
 #Что такое словарь (dictionary)?
